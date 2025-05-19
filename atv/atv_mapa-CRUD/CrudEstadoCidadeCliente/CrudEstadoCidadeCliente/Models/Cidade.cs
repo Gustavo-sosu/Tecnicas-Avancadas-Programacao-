@@ -3,11 +3,10 @@
     public class Cidade
     {
         public int CidadeId { get; set; }
-        public string Nome { get; set; } = string.Empty;
-        public decimal Preco { get; set; }
+        public string CidadeNome { get; set; } = string.Empty;
 
-        public int ClienteId { get; set; }
-        public Cliente? Cliente { get; set; }
+        public int EstadoId { get; set; }
+        public Estado? Estado { get; set; }
 
     }
 }

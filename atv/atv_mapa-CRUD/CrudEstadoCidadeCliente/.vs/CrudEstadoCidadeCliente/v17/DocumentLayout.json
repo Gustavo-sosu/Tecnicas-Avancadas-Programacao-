@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Migrations\\20250519200619_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEstadoCidadeCliente\\Migrations\\20250519200619_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|solutionrelative:crudestadocidadecliente\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{756C21F4-13FB-4B98-82FD-9EC6AAFD0539}|CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj|c:\\users\\aluno\\downloads\\tecnicas-avancadas-programacao-\\atv\\atv_mapa-crud\\crudestadocidadecliente\\crudestadocidadecliente\\crudestadocidadecliente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,59 +78,231 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cidade.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Cidade.cs",
-              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Models\\Cidade.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Cidade.cs",
-              "RelativeToolTip": "CrudEstadoCidadeCliente\\Models\\Cidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "20250519200619_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Migrations\\20250519200619_Inicial.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Migrations\\20250519200619_Inicial.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Migrations\\20250519200619_Inicial.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Migrations\\20250519200619_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T18:45:30.206Z",
+              "WhenOpened": "2025-05-19T20:06:19.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T19:59:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Estado\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Views\\Estado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Estado\\Index.cshtml",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Views\\Estado\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T19:48:21.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Cidade\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Views\\Cidade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Cidade\\Index.cshtml",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Views\\Cidade\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T19:23:08.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Cliente.cs",
               "RelativeToolTip": "CrudEstadoCidadeCliente\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T18:43:14.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T19:18:41.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:45:33.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:39:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:29:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Controllers\\EstadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:28:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Controllers\\CidadeController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:27:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Program.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Program.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:44:55.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:32:21.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Models\\Estado.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Estado.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Models\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:20:46.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Cidade.cs",
+              "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\Models\\Cidade.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\Models\\Cidade.cs",
+              "RelativeToolTip": "CrudEstadoCidadeCliente\\Models\\Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:45:30.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\appsettings.json",
               "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\appsettings.json",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\appsettings.json",
               "RelativeToolTip": "CrudEstadoCidadeCliente\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-15T18:40:18.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CrudEstadoCidadeCliente",
+              "DocumentIndex": 16,
+              "Title": "CrudEstadoCidadeCliente.csproj",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj",
               "RelativeDocumentMoniker": "CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Tecnicas-Avancadas-Programacao-\\atv\\atv_mapa-CRUD\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj",
               "RelativeToolTip": "CrudEstadoCidadeCliente\\CrudEstadoCidadeCliente.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-15T18:37:35.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T18:37:35.425Z"
             }
           ]
         }

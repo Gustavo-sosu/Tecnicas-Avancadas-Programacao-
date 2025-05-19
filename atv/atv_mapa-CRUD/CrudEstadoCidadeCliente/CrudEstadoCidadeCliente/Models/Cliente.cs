@@ -4,9 +4,11 @@
     {
         public int ClienteId { get; set; }
         public string Nome { get; set; } = string.Empty;
-        public string Email { get; set; } = string.Empty;
-
-        public ICollection<Produto>? Produtos { get; set; }
+        public int Idade { get; set; }
+        public string sex { get; set; }
+        public DateOnly DataNasc { get; set; }
+        public int CidadeId { get; set; }
+        public Cidade? Cidade { get; set; }
 
     }
 }
